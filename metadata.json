@@ -1,0 +1,5 @@
+{
+  "name": "Ahmed Elkhodary Science Exams",
+  "description": "An interactive exam platform for first-year preparatory science students, based on the 2025/2026 Egyptian curriculum. Features AI-generated, unique exams for each student and tracks results.",
+  "requestFramePermissions": []
+}
